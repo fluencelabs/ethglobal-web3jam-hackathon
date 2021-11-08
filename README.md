@@ -1,6 +1,6 @@
 # Web3 Jam Hackathon
 
-We are excited to support the Ethglobal Web3 Jam Hackathon. The Web3 Jam  Hackathon runs from November 12 to 42, 2021 with a total of USD 4,000.00 in Fluence pool named bounties.
+We are excited to support the Ethglobal Web3 Jam Hackathon. The Web3 Jam  Hackathon runs from November 12 to 42, 2021 with a total of USD 4,000.00 in Fluence named bounties in addition to the pool prices.
 
 ## About Fluence
 
@@ -8,9 +8,11 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 ## Challenges And Prizes
 
+Web3 Jam is all about decentralized media, Web3 and NFTs. In that spirit, we pose two challenges around NFTs where we believe the Fluence p2p compute protocol and p2p storage such as IPFS, Filecoin or Ceramic can be seamlessly combined with Aqua to provide the next generation of NFT use cases on- and off-chain.
+
 ### Dynamic NTF Lifecycle Management -- USD 2,000.00 for the best submission
 
-Dynamic NFTs are a valuable progression of non-fungible tokens. Using Fluence and Aqua, design and implement a (sub-) protocol to create and manage dynamic NFTs using IPFS or Ceramic as your decentralized persistence layer. For example, consider a dynamic NFT representing a sports persona or stock (immutable) and event-driven data (mutable). For example, your favorite politician NFT maybe update with their latest poll or election results.
+Dynamic NFTs are a valuable progression of non-fungible tokens. Using Fluence and Aqua, design and implement a (sub-) protocol to create and manage dynamic NFTs using IPFS or Ceramic as your decentralized persistence layer. For example, consider a dynamic NFT representing a sports persona or stock (immutable) and event-driven data (mutable). For example, your favorite politician NFT maybe updated with their latest poll or election results.
 
 ### Off-Chain NFT Auction Protocol -- USD 2,000.00 for the best submission
 
