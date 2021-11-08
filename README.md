@@ -12,11 +12,11 @@ Web3 Jam is all about decentralized media, Web3 and NFTs. In that spirit, we pos
 
 ### Dynamic NTF Lifecycle Management -- USD 2,000.00 for the best submission
 
-Dynamic NFTs are a valuable progression of non-fungible tokens. Using Fluence and Aqua, design and implement a (sub-) protocol to create and manage dynamic NFTs using IPFS or Ceramic as your decentralized persistence layer. For example, consider a dynamic NFT representing a sports persona or stock (immutable) and event-driven data (mutable). For example, your favorite politician NFT maybe updated with their latest poll or election results.
+Dynamic NFTs are a valuable progression of non-fungible tokens. Using Fluence and Aqua, design and implement a (sub-) protocol to create and manage dynamic NFTs using IPFS or Ceramic as your decentralized persistence layer. For example, consider a dynamic NFT representing a sports persona or stock (immutable) and event-driven data updating the NFT (mutable). For example, your favorite politician's NFT may be updated with their latest poll or election results.
 
 ### Off-Chain NFT Auction Protocol -- USD 2,000.00 for the best submission
 
-Trading and especially auctioning of NFTs are popular exchange mechanisms. Alas, on-chain bidding may incur prohibitively high gas costs **per** bid massively undermining the value and usability of NFTs to the community. You can change that by creating a decentralized, off-chain NFT auction platform with Fluence and Aqua where bid history, for example, is tracked on a decentralized, immutable persistence layer like IPFS or Filecoin or on a mutable but on-chain anchored solution like Ceramic.
+Trading, and especially auctioning, of NFTs are popular exchange mechanisms in the Web3 space. Alas, on-chain bidding may incur prohibitively high gas costs **per** bid massively undermining the value and usability of NFTs to the community. You can change that by creating a decentralized, off-chain NFT auction platform with Fluence and Aqua where bid history, for example, is tracked on a decentralized, immutable persistence layer like IPFS or Filecoin or on a mutable but on-chain anchored solution like Ceramic.
 
 ## Submission Requirements & Judging Criteria
 
