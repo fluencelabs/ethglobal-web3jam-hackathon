@@ -1,6 +1,6 @@
 # Web3 Jam Hackathon
 
-We are excited to support the Ethglobal Web3 Jam Hackathon. The Web3 Jam  Hackathon runs from November 12 to 42, 2021 with a total of USD 4,000.00 in Fluence named bounties in addition to the pool prices.
+We are excited to support the Ethglobal Web3 Jam Hackathon. The Web3 Jam  Hackathon runs from November 12 to 22, 2021 with a total of USD 4,000 in Fluence named bounties in addition to the pool prizes.
 
 ## About Fluence
 
@@ -12,7 +12,7 @@ Web3 Jam is all about decentralized media, Web3 and NFTs. In that spirit, we pos
 
 ### NFT Challenge  -- USD 2,000.00 for the best submission
 
-The NFT challenge offers two possibilities: dynamic NFT lifecycle management and off-chain NFT auctioning. Submissions in either category compete for the USD 2,000.00 price.
+The NFT challenge offers two possibilities: dynamic NFT lifecycle management and off-chain NFT auctioning. Submissions in either category compete for the USD 2,000 prize.
 
 #### Dynamic NTF Lifecycle Management
 
