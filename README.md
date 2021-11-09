@@ -1,6 +1,6 @@
 # Web3 Jam Hackathon
 
-We are excited to support the Ethglobal Web3 Jam Hackathon. The Web3 Jam  Hackathon runs from November 12 to 22, 2021 with a total of USD 4,000 in Fluence named bounties in addition to the pool prizes.
+We are excited to support the Ethglobal [Web3 Jam Hackathon](https://jam.ethglobal.com/). The Web3 Jam  Hackathon runs from November 12 to 24, 2021 with a total of USD 4,000 in Fluence named bounties in addition to the pool prizes.
 
 ## About Fluence
 
