@@ -8,15 +8,26 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 ## Challenges And Prizes
 
-Web3 Jam is all about decentralized media, Web3 and NFTs. In that spirit, we pose two challenges around NFTs where we believe the Fluence p2p compute protocol and p2p storage such as IPFS, Filecoin or Ceramic can be seamlessly combined with Aqua to provide the next generation of NFT use cases on- and off-chain.
+Web3 Jam is all about decentralized media, Web3 and NFTs. In that spirit, we pose one challenges around NFTs where we believe the Fluence p2p compute protocol and p2p storage such as IPFS, Filecoin or Ceramic can be seamlessly combined with Aqua to provide the next generation of NFT use cases on- and off-chain. In addition, we offer a more general *best Dapp* challenge.
 
-### Dynamic NTF Lifecycle Management -- USD 2,000.00 for the best submission
+### NFT Challenge  -- USD 2,000.00 for the best submission
+
+The NFT challenge offers two possibilities: dynamic NFT lifecycle management and off-chain NFT auctioning. Submissions in either category compete for the USD 2,000.00 price.
+
+#### Dynamic NTF Lifecycle Management
 
 Dynamic NFTs are a valuable progression of non-fungible tokens. Using Fluence and Aqua, design and implement a (sub-) protocol to create and manage dynamic NFTs using IPFS or Ceramic as your decentralized persistence layer. For example, consider a dynamic NFT representing a sports persona or stock (immutable) and event-driven data updating the NFT (mutable). For example, your favorite politician's NFT may be updated with their latest poll or election results.
 
-### Off-Chain NFT Auction Protocol -- USD 2,000.00 for the best submission
+OR
+
+#### Off-Chain NFT Auction Protocol
 
 Trading, and especially auctioning, of NFTs are popular exchange mechanisms in the Web3 space. Alas, on-chain bidding may incur prohibitively high gas costs **per** bid massively undermining the value and usability of NFTs to the community. You can change that by creating a decentralized, off-chain NFT auction platform with Fluence and Aqua where bid history, for example, is tracked on a decentralized, immutable persistence layer like IPFS or Filecoin or on a mutable but on-chain anchored solution like Ceramic.
+
+
+### Best Use of Fluence and Aqua In Your DApp  -- USD 2,000.00 for the best submission
+
+This category is wide open and rewards your use of Fluence and Aqua in your DApp to, for example,  integrate different chains, APIs or services, such as IPFS or other event sponsors, or provide compute services, such as oracles or indexing.
 
 ## Submission Requirements & Judging Criteria
 
